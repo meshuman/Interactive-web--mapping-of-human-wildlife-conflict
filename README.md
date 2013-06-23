@@ -1,4 +1,3 @@
-Interactive-web--mapping-of-human-wildlife-conflict
+Interactive-web--mapping
 ===================================================
-
-Final year project
+This is a pilot project for human-wildlife conflict management.
