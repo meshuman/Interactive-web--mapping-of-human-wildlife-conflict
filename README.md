@@ -1,4 +1,4 @@
-Interactive-web--mapping-of-human-wildlife-conflict
+Interactive-web--mapping
 ===================================================
 
-Final year project
+
